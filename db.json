@@ -1,0 +1,30 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "learn"
+    },
+    {
+      "id": "6fe1",
+      "title": "created angular project today",
+      "important": true
+    },
+    {
+      "id": "ea9c",
+      "title": "hey lets learn c++",
+      "completed": true
+    },
+    {
+      "id": "1dab",
+      "title": "hmm"
+    },
+    {
+      "id": "2a81",
+      "title": "yes "
+    },
+    {
+      "id": "0ace",
+      "title": "no"
+    }
+  ]
+}
